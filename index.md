@@ -1,79 +1,132 @@
 ---
 permalink: /
-title: "魏舒怡 - 个人主页"
+title: "魏舒怡 - 创意 · 会计 · 多彩生活"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-# 🎉 欢迎来到我的个人主页！
-
-<div style="text-align: center; margin: 40px 0;">
-  <h2>我是 <span style="color: #e91e63;">魏舒怡</span></h2>
-  <p style="font-size: 1.2em; color: #666;">
-    广州商学院会计学本科生 | ENFP人格 | 热爱生活的多面手
-  </p>
-</div>
-
-## 🌟 关于我
-
-我是一名充满活力和创造力的会计学专业学生，目前就读于广州商学院。作为ENFP人格，我性格外向开朗，善于沟通，热爱团队合作，总是对生活充满热情和好奇心。
-
-### 🎯 我的特点
-- 💫 **多元发展**：学术与兴趣并重，追求全面发展
-- 🤝 **善于沟通**：享受与人交流，建立真诚连接
-- 🎭 **艺术细胞**：热爱表演艺术，享受舞台魅力
-- 📚 **终身学习**：持续学习新知识，不断提升自我
-
-## 🏆 近期成就
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 30px 0;">
-  <div style="text-align: center; margin: 10px; padding: 15px; background: #f5f5f5; border-radius: 10px; min-width: 200px;">
-    <h3>🏆 一等奖</h3>
-    <p>财税短视频大赛</p>
-  </div>
-  <div style="text-align: center; margin: 10px; padding: 15px; background: #f5f5f5; border-radius: 10px; min-width: 200px;">
-    <h3>💼 实习经历</h3>
-    <p>政府机关实习</p>
-  </div>
-  <div style="text-align: center; margin: 10px; padding: 15px; background: #f5f5f5; border-radius: 10px; min-width: 200px;">
-    <h3>🎭 才艺展示</h3>
-    <p>话剧舞蹈表演</p>
+<div style="text-align: center; padding: 60px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 15px; margin-bottom: 40px;">
+  <h1 style="font-size: 2.5em; margin-bottom: 20px;">✨ 魏舒怡</h1>
+  <p style="font-size: 1.3em; opacity: 0.9;">会计学子 × 艺术灵魂 × ENFP冒险家</p>
+  <div style="margin-top: 30px;">
+    <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; margin: 0 5px;">🏸 羽毛球达人</span>
+    <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; margin: 0 5px;">💃 爵士舞者</span>
+    <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; margin: 0 5px;">🎭 话剧演员</span>
   </div>
 </div>
 
-## 📞 快速联系
+## 🎯 我的多维人生
 
-<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <h3>📧 立即联系我</h3>
-  <ul>
-    <li><strong>邮箱</strong>: 2141771916@qq.com</li>
-    <li><strong>微信</strong>: Lj_10182024</li>
-    <li><strong>所在地</strong>: 广东，中国</li>
-  </ul>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
+
+<div style="background: #e8f5e8; padding: 25px; border-radius: 12px; text-align: center;">
+  <h3>📊 专业领域</h3>
+  <p>会计学探索者</p>
+  <div style="font-size: 0.9em; color: #666; margin-top: 15px;">
+    <div>财务报表分析</div>
+    <div>税务筹划</div>
+    <div>财务软件应用</div>
+  </div>
 </div>
 
-## 🚀 探索更多
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 30px 0;">
-  <a href="/about/" style="display: block; padding: 20px; background: #e3f2fd; border-radius: 8px; text-align: center; text-decoration: none; color: #1976d2;">
-    <h3>👩‍🎓 关于我</h3>
-    <p>了解更多我的故事</p>
-  </a>
-  <a href="/portfolio/" style="display: block; padding: 20px; background: #f3e5f5; border-radius: 8px; text-align: center; text-decoration: none; color: #7b1fa2;">
-    <h3>🎨 我的作品</h3>
-    <p>查看我的成果展示</p>
-  </a>
-  <a href="/cv/" style="display: block; padding: 20px; background: #e8f5e8; border-radius: 8px; text-align: center; text-decoration: none; color: #388e3c;">
-    <h3>📄 个人简历</h3>
-    <p>下载我的简历</p>
-  </a>
+<div style="background: #e3f2fd; padding: 25px; border-radius: 12px; text-align: center;">
+  <h3>🎨 创意表达</h3>
+  <p>舞台艺术爱好者</p>
+  <div style="font-size: 0.9em; color: #666; margin-top: 15px;">
+    <div>话剧表演</div>
+    <div>舞蹈编排</div>
+    <div>视频创作</div>
+  </div>
 </div>
+
+<div style="background: #f3e5f5; padding: 25px; border-radius: 12px; text-align: center;">
+  <h3>🌟 个人特质</h3>
+  <p>ENFP能量站</p>
+  <div style="font-size: 0.9em; color: #666; margin-top: 15px;">
+    <div>创意无限</div>
+    <div>善于沟通</div>
+    <div>团队核心</div>
+  </div>
+</div>
+
+</div>
+
+## 📸 精彩瞬间
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 40px 0;">
+
+<div style="background: #fff3e0; padding: 20px; border-radius: 10px; text-align: center;">
+  <h4>🏆 荣誉时刻</h4>
+  <p>财税短视频大赛</p>
+  <p style="font-size: 0.9em; color: #666;">用创意传播知识</p>
+</div>
+
+<div style="background: #e8eaf6; padding: 20px; border-radius: 10px; text-align: center;">
+  <h4>💼 实践经历</h4>
+  <p>政府机关实习</p>
+  <p style="font-size: 0.9em; color: #666;">积累宝贵经验</p>
+</div>
+
+<div style="background: #fce4ec; padding: 20px; border-radius: 10px; text-align: center;">
+  <h4>🎭 舞台风采</h4>
+  <p>话剧舞蹈表演</p>
+  <p style="font-size: 0.9em; color: #666;">绽放艺术光芒</p>
+</div>
+
+<div style="background: #e0f2f1; padding: 20px; border-radius: 10px; text-align: center;">
+  <h4>📚 学术追求</h4>
+  <p>持续学习成长</p>
+  <p style="font-size: 0.9em; color: #666;">探索专业深度</p>
+</div>
+
+</div>
+
+## 🎪 我的生活哲学
+
+> "在数字的世界里保持精准，在艺术的海洋中尽情遨游，在生活的舞台上闪耀独特光芒。"
+
+### 🌈 能量来源
+- **与人连接**：深度交流带来的灵感碰撞
+- **创意表达**：将想法转化为作品的成就感  
+- **运动活力**：汗水中的释放与重生
+- **团队协作**：集体创造奇迹的魔力
+
+## 🚀 快速导航
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; text-align: center; margin: 40px 0;">
+
+<a href="/about/" style="display: block; padding: 15px; background: #ffebee; border-radius: 8px; text-decoration: none; color: #c62828; transition: transform 0.3s;">
+  <div>👩‍🎓</div>
+  <strong>深度了解</strong>
+</a>
+
+<a href="/portfolio/" style="display: block; padding: 15px; background: #e8f5e8; border-radius: 8px; text-decoration: none; color: #2e7d32; transition: transform 0.3s;">
+  <div>🎨</div>
+  <strong>作品展示</strong>
+</a>
+
+<a href="/cv/" style="display: block; padding: 15px; background: #e3f2fd; border-radius: 8px; text-decoration: none; color: #1565c0; transition: transform 0.3s;">
+  <div>📄</div>
+  <strong>简历下载</strong>
+</a>
+
+<a href="mailto:2141771916@qq.com" style="display: block; padding: 15px; background: #f3e5f5; border-radius: 8px; text-decoration: none; color: #7b1fa2; transition: transform 0.3s;">
+  <div>💌</div>
+  <strong>联系合作</strong>
+</a>
+
+</div>
+
+<style>
+a:hover {
+  transform: translateY(-5px);
+}
+</style>
 
 ---
 
-<div style="text-align: center; margin-top: 40px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px;">
-  <h2>✨ 保持热情，追逐梦想，活出精彩！</h2>
-  <p>感谢您访问我的个人主页，期待与您交流！</p>
+<div style="text-align: center; padding: 30px; background: #f5f5f5; border-radius: 10px; margin-top: 40px;">
+  <h3>💫 期待与你相遇</h3>
+  <p>无论是学术讨论、创意合作，还是单纯的交流想法，我都十分欢迎！</p>
+  <p>📧 2141771916@qq.com | 💬 微信: Lj_10182024</p>
+</div>
 </div>
