@@ -1,64 +1,70 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# 魏舒怡 - 个人简历
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 教育背景
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**广州商学院** - 会计学本科 *(2024年至今)*
+- 主修会计学，系统学习财务会计、管理会计、审计等专业课程
+- 积极参与课堂讨论和小组项目，培养团队协作能力
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 💼 实习经历
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### 五华县招商局 - 助理实习生
+- 参与年度项目招商考察，协助完成县招商实地考察工作
+- 负责会议记录和资料整理，确保信息准确完整
+- 协助统计成功招标的企业信息，支持数据分析工作
+- 学习并跟进招商计划的执行情况，了解政府工作流程
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### 五华县直机关单位 - 实习生
+- 协助草拟、校对通知、报告等公文10余份，学习政府公文规范格式
+- 参与会务筹备工作，负责通知下发与现场服务，保障会议顺利召开
+- 运用Excel汇总分析业务数据，形成报表，支持科室决策参考
+- 处理文件传阅归档与电话接听，提升沟通协调与信息处理能力
+
+## 🏆 获奖情况
+
+- **财税短视频大赛一等奖** - 通过创意视频形式传播财税知识
+- **第八届传智杯WPS智能办公能力挑战赛参赛** - 提升办公软件应用能力
+
+## 💪 技能特长
+
+### 专业技能
+- 会计基础知识与实务操作
+- 财务报表分析与解读
+- 税务法规基本了解
+- 财务软件基本操作
+
+### 软技能
+- 沟通协调能力
+- 团队合作精神
+- 学习适应能力
+- 问题解决能力
+
+### 技术技能
+- WPS Office (Word, Excel, PowerPoint)
+- 基础数据处理与分析
+- 社交媒体内容创作
+
+## 🎭 校园活动
+
+- **话剧社成员**：参与多场校园话剧演出
+- **舞蹈社团**：定期参加爵士舞训练和表演
+- **羽毛球爱好者**：积极参与校园体育活动
+
+## 📞 联系方式
+
+- **邮箱**: 2141771916@qq.com
+- **微信**: Lj_10182024
+- **所在地**: 广东，中国
+
+---
+
+*最后更新: 2024年*
