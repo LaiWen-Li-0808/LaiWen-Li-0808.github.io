@@ -114,7 +114,7 @@ author_profile: true
 
 <div style="text-align: center; padding: 25px; background: white; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <div style="font-size: 2.5em;">🌍</div>
-  <h4>英语阅读能力</h4>
+  <h4>日语阅读能力</h4>
   <div style="background: #e0e0e0; border-radius: 10px; height: 10px; margin: 15px 0;">
     <div style="background: #ff9800; width: 30%; height: 100%; border-radius: 10px;"></div>
   </div>
