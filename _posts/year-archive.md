@@ -151,7 +151,7 @@ author_profile: true
   <p style="font-size: 1.2em; font-style: italic; margin-top: 15px;">
     "日拱一卒，功不唐捐。每天进步一点点，积累起来就是巨大的成长！"
   </p>
-  <p style="margin-top: 20px; opacity: 0.8;">最后更新: 2024年3月</p>
+  <p style="margin-top: 20px; opacity: 0.8;">最后更新: 2025年11月</p>
 </div>
 
 <style>
